@@ -1,6 +1,6 @@
 # foodvlog
 It is a e-commerce website to buy food items online.
-Itcontain a Home page which include all information about the site and list of the products.
+It contains a Home page which include all information about the site and list of the products.
 ![home](https://user-images.githubusercontent.com/116715204/200566650-db4b3309-9663-4086-9487-965ac106bb94.png)
 It contain another page which include product details like product name, price, descriptions, stock, and a add to cart option.
 ![products](https://user-images.githubusercontent.com/116715204/200566770-e6cc2b71-1ad0-4cd0-9394-4ca01e5b6d01.png)
