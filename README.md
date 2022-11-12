@@ -15,6 +15,6 @@ If user forgot password it can reset by clicking forgot password.
 ![forgot](https://user-images.githubusercontent.com/116715204/200567081-215baa76-5188-4fe5-8bb1-1c5cff23dd53.png)
 There is also cart page for showing carted products and its details like quandity and prices.
 ![cart](https://user-images.githubusercontent.com/116715204/200567306-9403c196-b8a7-4261-8fd3-2f67bf44a31f.png)
-If a produvct is out of stock then out of stock option is also included in product details page.
+If a product is out of stock then out of stock option is also included in product details page.
 ![outofstock](https://user-images.githubusercontent.com/116715204/200567494-c76dead5-032f-4dfc-b97a-108f6e36b82f.png)
 Admin can add, edit products and products details in admin panel.
